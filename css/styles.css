@@ -37,7 +37,7 @@ body{
   border: 2px solid #F05454;
   border-radius: 50px;
   cursor: pointer;
-  margin: 2px 0;
+  margin: 5px 5px;
   transition: all 0.5 ease 0s;
 }
 
@@ -106,7 +106,7 @@ a, button {
   display: flex;  
   justify-content: center;
   align-items: center;
-  margin-top: 7rem;
+  margin-top: 4rem;
   margin-left: -4.5rem;
     
 }
