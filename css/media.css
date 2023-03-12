@@ -113,6 +113,16 @@
         
     }
 
+    .all img,
+    .imagensNewborn img,
+    .imagensAcompanhamento img,
+    .imagensSmash img,
+    .preWedding img{
+        margin: 5px;
+    }
+
+    /* CONTACT */
+
     .contactUs {
         flex-direction: column;
     }
